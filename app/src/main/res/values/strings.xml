@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EonApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_primer_fragment">Primer Fragment</string>
+    <string name="texto_boton_fragment">Ir fragment 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="texto_segundo_fragment">Segundo Fragmentt</string>
+</resources>
